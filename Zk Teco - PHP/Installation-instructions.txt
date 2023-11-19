@@ -1,0 +1,24 @@
+First Phase:
+
+1) Install XAMPP7+\xampp-win32-7.2.5-0-VC15-installer.exe in "C drive"
+2) Remove semicolon before extension=sockets line number 915 (C:\\xampp\php\php.ini)
+3) Copy the folder ZKLibraryDG and paste to "C:\\xampp\htdocs\" 
+4) Change port 88 i/o 80 "C:\\xampp\apache\conf\httpd.conf" at line 58
+5) Restart the apache server & mysql
+6) Open browser with url "http:\\localhost:88"
+7) Click on phpmyadmin
+8) create database "attendancedg"
+9) run script attendancedg.sql
+
+Second Phase:
+
+1) Install XAMPP1.7.1\xampp-win32-1.7.1.exe in "D drive"
+2) Remove semicolon before extension=php_oci8.dll line number 634 (D:\\xampp\php\php.ini)
+3) Copy the folder ORCDG and paste to "D:\\xampp\htdocs\"
+4) Modify oracle connection string of dbconnect.php file "D:\\xampp\htdocs\ORCDG\config\dbconnect.php"
+	-> $db = oci_connect("bottomerp", "123456","192.168.0.217:1521/DCOPRODDB");
+5) Modify mysql connection string of ZKLibAttendanceToOracle.php file "D:\\xampp\htdocs\ORCDG\config\ZKLibAttendanceToOracle.php"
+	-> 	$servername = "localhost";
+		$username = "root";
+		$password = "";
+		$dbname = "attendancedg";
