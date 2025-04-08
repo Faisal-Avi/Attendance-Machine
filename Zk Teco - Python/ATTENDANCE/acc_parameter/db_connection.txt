@@ -1,1 +1,1 @@
-dalerp/dalerp2018@192.168.66.21/dcoproddb
+db_info
