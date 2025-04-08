@@ -1,1 +1,1 @@
-foodv2win/dekkkoerp#sdi#6@192.168.66.32/orcl
+db_info
