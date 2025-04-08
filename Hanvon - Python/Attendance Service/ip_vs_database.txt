@@ -1,18 +1,1 @@
-192.168.65.244 bottomerp/OurSDi3RpT3#mB2@192.168.66.24/orcl
-192.168.101.246 bottomerp/OurSDi3RpT3#mB2@192.168.66.24/orcl
-192.168.101.245 bottomerp/OurSDi3RpT3#mB2@192.168.66.24/orcl
-192.168.65.243 foodv2win/dekkkoerp#sdi#6@192.168.101.248/orcl
-192.168.65.242 dalerp/dalerp2018@192.168.66.21/dcoproddb
-192.168.1.162 dalerp/dalerp2018@192.168.66.21/dcoproddb
-192.168.4.245 dalerp/dalerp2018@192.168.66.21/dcoproddb
-192.168.0.66 dalerp/dalerp2018@192.168.66.21/dcoproddb
-192.168.15.250 dalerp/dalerp2018@192.168.66.21/dcoproddb
-192.168.19.250 dalerp/dalerp2018@192.168.66.21/dcoproddb
-192.168.19.251 dalerp/dalerp2018@192.168.66.21/dcoproddb
-192.168.7.224 dalerp/dalerp2018@192.168.66.21/dcoproddb
-192.168.8.240 dalerp/dalerp2018@192.168.66.21/dcoproddb
-192.168.12.240 bottomerp/OurSDi3RpT3#mB2@192.168.66.24/orcl
-192.168.0.212 bottomerp/OurSDi3RpT3#mB2@192.168.66.24/orcl
-192.168.0.211 bottomerp/OurSDi3RpT3#mB2@192.168.66.24/orcl
-192.168.0.211 dalerp/dalerp2018@192.168.66.21/dcoproddb
-192.168.0.212 dalerp/dalerp2018@192.168.66.21/dcoproddb
+db_conn_info
